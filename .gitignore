@@ -48,8 +48,9 @@ fabric.properties
 
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
-
+# mpeltonen/sbt-idea plugin
+.pre-commit-config.yaml
 # *.iml
 # modules.xml
-*.pynb
+*.ipynb
 !.gitignore
