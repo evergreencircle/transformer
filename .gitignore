@@ -53,4 +53,3 @@ fabric.properties
 # *.iml
 # modules.xml
 *.ipynb
-!.gitignore
