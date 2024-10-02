@@ -1,2 +1,2 @@
-*.yam
-.gitignore
+.*
+*.ipynb
