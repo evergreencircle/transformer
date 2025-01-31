@@ -28,6 +28,7 @@ print(vocab_size)
 # create a mapping from characters to integers
 stoi = {ch: i for i, ch in enumerate(chars)}
 itos = {i: ch for i, ch in enumerate(chars)}
+# just to get though ruff
 encode = []
 decode = []
 # encode = lambda s: [
